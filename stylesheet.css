@@ -115,9 +115,9 @@ span{
     margin-top: 50px;
     margin-left: 25px;
 }  
-@media screen and (min-width:475px) {
+@media screen and (min-width:375px) {
 div.box1{
-        width: 400px;
+        width: 200px;
         margin-left: 5px;
         margin-bottom: 10px; 
         padding: 0%;
@@ -136,7 +136,7 @@ div.box2{
     padding-left: 10px;
 }
 .size{
-    font-size: 2rem;
+    font-size: 1rem;
     color:black;
 }
 .container2{
