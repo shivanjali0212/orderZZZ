@@ -115,7 +115,7 @@ span{
     margin-top: 50px;
     margin-left: 25px;
 }  
-@media (min-width:500px) and (max-width:800px) {
+@media (min-width:400px) and (max-width:800px) {
 div.box1{
         width: 400px;
         margin-left: 10px;
