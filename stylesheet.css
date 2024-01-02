@@ -2,9 +2,7 @@
     padding: 15px 0 15px 0;
     background-color:#312b2b;
 }
-.or{
-    text-align: center;
-  
+
 }
 .order{
     text-decoration: none;
@@ -140,10 +138,12 @@ div.box2{
     color:black;
 }
 .container2{
+    text-align:center;
     display: block;
     gap: 20px;
     margin: 0;
-
+.card-t {
+    width: 300px;
 }
 #footer{
     display:flex;
