@@ -115,7 +115,7 @@ span{
 }  
 @media (max-width:600px) {
 div.box1{
-        width: 400px;
+        width: 300px;
         margin-left: 10px;
         margin-bottom: 20px; 
         padding: 0%;
@@ -124,7 +124,7 @@ div.box2{
     padding-bottom: 0;
 }
 .iphone{
-    height: 300px;
+    height: 250px;
     margin-left: 0;
 }
 .container1{
@@ -134,7 +134,7 @@ div.box2{
     padding-left: 30px;
 }
 .size{
-    font-size: 2rem;
+    font-size: 1rem;
     color:black;
 }
 .container2{
@@ -144,6 +144,7 @@ div.box2{
     margin: 0;
 .card-t {
     width: 300px;
+    margin:30px
 }
 #footer{
     display:flex;
